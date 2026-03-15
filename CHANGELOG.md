@@ -6,7 +6,18 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ---
 
 ## [Unreleased]
-Changes that are staged or in progress but not yet tied to a version.
+Need to figure out how to add a GIF of the LEDs lighting up for the README section and potential little site.
+
+---
+
+## [0.2.0] - 2026-03-14
+### Added
+- Doxygen file-level header block in `src/main.cpp`
+- `docs/WIRING.md` with step-by-step wiring instructions and pin mapping table
+- `CHANGELOG.md` to track version history
+
+### Changed
+- Project renamed from RGB_Traffic_Light to LED_Traffic_Light
 
 ---
 

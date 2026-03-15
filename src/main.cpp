@@ -11,7 +11,7 @@
  */
 
 // Arduino.h gives access to core Arduino functions like pinMode(),
-// digitalWrite(), and delay(). Required when using PlatformIO.
+// digitalWrite(), aÍnd delay(). Required when using PlatformIO.
 #include <Arduino.h>
 
 // *** Pin Assignments     
