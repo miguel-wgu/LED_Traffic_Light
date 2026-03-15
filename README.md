@@ -10,6 +10,10 @@ An Arduino project that simulates an RGB traffic light using 3 RGB LEDs.
 - Jumper wires
 - Breadboard
 
+## Wiring
+
+![Wiring Diagram](docs/Tinkercad%20-%20Wiring%20Diagram.png)
+
 ## Software
 
 - [CLion](https://www.jetbrains.com/clion/) with the [PlatformIO](https://platformio.org/) plugin
