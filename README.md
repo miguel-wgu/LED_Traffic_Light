@@ -5,7 +5,7 @@ An Arduino project that simulates an RGB traffic light using 3 RGB LEDs.
 ## Hardware
 
 - Elegoo Megar R3 (Arduino Mega 2560)
-- 3x RGB LEDs (Green, Yellow, and Red)
+- 3x LEDs (Green, Yellow, and Red)
 - 3x 220ohm Resistors
 - Jumper wires
 - Breadboard
@@ -13,8 +13,9 @@ An Arduino project that simulates an RGB traffic light using 3 RGB LEDs.
 ## Wiring
 
 ![Wiring Diagram](docs/Tinkercad%20Wiring%20Diagram.png)
+Link to Tinker it [here](https://www.tinkercad.com/things/kvZEJ7QVY8S-led-traffic-lights).
 
-For the more technical folk, a [schematic diagram](docs/Schematic.png) is also available.
+For the more technical folk, a [schematic diagram](docs/Schematic.pdf) is also available.
 
 ## Software
 
