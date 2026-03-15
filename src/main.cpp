@@ -1,3 +1,15 @@
+/**
+ * @file    main.cpp
+ * @brief   RGB Traffic Light — cycles through green, yellow, and red LEDs
+ *          to simulate a traffic light sequence.
+ *
+ * @board   Arduino Mega 2560 (Elegoo Mega R3)
+ * @pins    11 = Red, 12 = Yellow, 13 = Green
+ *
+ * @author  Miguel
+ * @date    2026-03-14
+ */
+
 // Arduino.h gives access to core Arduino functions like pinMode(),
 // digitalWrite(), and delay(). Required when using PlatformIO.
 #include <Arduino.h>
@@ -10,6 +22,7 @@ const int RED_LED = 11;
 
 // *** Setup input
 // Runs once on power-on. pinMode() configures each pin as OUTPUT so the
+// Arduino can drive current through the LEDs.
 void setup() {
     pinMode(GREEN_LED, OUTPUT);
     pinMode(YELLOW_LED, OUTPUT);

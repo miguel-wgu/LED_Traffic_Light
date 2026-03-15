@@ -1,6 +1,6 @@
 # RGB Traffic Light
 
-An Arduino project that simulates an RGB traffic light using 3 RGB LEDs.
+An Arduino project that simulates a traffic light using 3 LEDs.
 
 ## Hardware
 
