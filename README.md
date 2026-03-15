@@ -12,7 +12,9 @@ An Arduino project that simulates an RGB traffic light using 3 RGB LEDs.
 
 ## Wiring
 
-![Wiring Diagram](docs/Tinkercad%20-%20Wiring%20Diagram.png)
+![Wiring Diagram](docs/Tinkercad%20Wiring%20Diagram.png)
+
+For the more technical folk, a [schematic diagram](docs/Schematic.png) is also available.
 
 ## Software
 
