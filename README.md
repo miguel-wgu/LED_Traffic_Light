@@ -2,6 +2,10 @@
 
 An Arduino project that simulates a traffic light using 3 LEDs.
 
+## Demo
+
+![LED Cycle](docs/LED%20Cycle.GIF)
+
 ## Hardware
 
 - Elegoo Megar R3 (Arduino Mega 2560)
