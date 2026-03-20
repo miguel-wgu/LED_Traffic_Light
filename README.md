@@ -2,6 +2,8 @@
 
 An Arduino project that simulates a traffic light using 3 LEDs.
 
+View the project page on my portfolio [here](https://miguels-build-log.vercel.app/projects/led-traffic-light).
+
 ## Demo
 
 ![LED Cycle](https://raw.githubusercontent.com/miguel-wgu/LED_Traffic_Light/main/docs/LED%20Cycle.gif)
