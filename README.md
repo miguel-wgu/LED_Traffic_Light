@@ -26,3 +26,18 @@ For the more technical folk, a [schematic diagram](docs/Schematic.pdf) is also a
 ## Software
 
 - [CLion](https://www.jetbrains.com/clion/) with the [PlatformIO](https://platformio.org/) plugin
+
+## Project Structure
+
+```
+├── src/
+│   └── main.cpp                       # Traffic light logic (setup & loop)
+├── docs/
+│   ├── WIRING.md                      # Step-by-step wiring instructions
+│   ├── Schematic.pdf                  # Circuit schematic
+│   ├── Tinkercad Wiring Diagram.png   # Visual wiring reference
+│   ├── LED Cycle.gif                  # Demo animation
+│   └── LED_Traffic_Light-*.jpg        # Build photos
+├── platformio.ini                     # PlatformIO board & build config
+└── CHANGELOG.md                       # Version history
+```
